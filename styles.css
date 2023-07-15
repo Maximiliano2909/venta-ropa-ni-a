@@ -1,0 +1,26 @@
+
+.header{
+    background-color: rgb(0, 204, 255);
+}
+.color{
+    background-color: greenyellow;
+}
+.titulo{
+    text-align: center;
+    margin: 5px;
+    padding: 50px;
+    
+}
+
+.foto {
+    height: 400px;
+    width: 300px;
+border-radius: 20px;
+margin: 5px; ;
+padding: 5px;
+}
+
+.marge{
+    margin: 10px; ;
+    padding: 10px; ;
+}
